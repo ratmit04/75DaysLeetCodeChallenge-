@@ -8,6 +8,7 @@ All questions solved in the challenge
 | ------- |
 | [0007-reverse-integer](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -20,4 +21,8 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0029-divide-two-integers) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
