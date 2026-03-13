@@ -13,10 +13,12 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,4 +27,8 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
