@@ -1,24 +1,31 @@
-// BRUTE FORCE APPROACH
+// TWO POINTER APPROACH
 class Solution {
     public boolean isPalindrome(String s) {
-        // Step 1: Clean string
-        String cleaned = "";
+        int left = 0;
+        int right = s.length() - 1;
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
+        while (left < right) {
 
-            if (Character.isLetterOrDigit(ch)) {
-                cleaned += Character.toLowerCase(ch); // append
+            // Skip non-alphanumeric from left
+            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
+                left++;
             }
+
+            // Skip non-alphanumeric from right
+            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
+                right--;
+            }
+
+            // Compare characters (case-insensitive)
+            if (Character.toLowerCase(s.charAt(left)) != 
+                Character.toLowerCase(s.charAt(right))) {
+                return false;
+            }
+
+            left++;
+            right--;
         }
 
-        // Step 2: Reverse string
-        String reversed = "";
-        for (int i = cleaned.length() - 1; i >= 0; i--) {
-            reversed += cleaned.charAt(i);
-        }
-
-        // Step 3: Compare
-        return cleaned.equals(reversed);
+        return true;
     }
 }
