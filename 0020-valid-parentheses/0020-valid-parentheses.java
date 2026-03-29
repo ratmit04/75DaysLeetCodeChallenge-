@@ -4,19 +4,23 @@ class Solution {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
 
-        Map<Character, Character> map = new HashMap<>();
-        map.put(')', '(');
-        map.put('}', '{');
-        map.put(']', '[');
-
         for (char ch : s.toCharArray()) {
 
-            if (map.containsKey(ch)) { // closing bracket
-                if (stack.isEmpty() || stack.pop() != map.get(ch)) {
+            // Push opening brackets
+            if (ch == '(' || ch == '{' || ch == '[') {
+                stack.push(ch);
+            } 
+            // Handle closing brackets
+            else {
+                if (stack.isEmpty()) return false;
+
+                char top = stack.pop();
+
+                if ((ch == ')' && top != '(') ||
+                    (ch == '}' && top != '{') ||
+                    (ch == ']' && top != '[')) {
                     return false;
                 }
-            } else {
-                stack.push(ch); // opening bracket
             }
         }
 
