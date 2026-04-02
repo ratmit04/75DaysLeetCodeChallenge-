@@ -1,18 +1,20 @@
+import java.util.*;
+
 class Solution {
-    public int[] dailyTemperatures(int[] temp) {
-        int n = temp.length;
-        int[] ans = new int[n];
-        int[] stack = new int[n]; // using array as stack
-        int top = -1;
+    public int[] dailyTemperatures(int[] temperatures) {
+        int n = temperatures.length;
+        int[] answer = new int[n];
+        Stack<Integer> stack = new Stack<>(); // stores indices
 
         for (int i = 0; i < n; i++) {
-            while (top >= 0 && temp[i] > temp[stack[top]]) {
-                int idx = stack[top--];
-                ans[idx] = i - idx;
+            // Resolve all previous colder days
+            while (!stack.isEmpty() && temperatures[i] > temperatures[stack.peek()]) {
+                int prevIndex = stack.pop();
+                answer[prevIndex] = i - prevIndex;
             }
-            stack[++top] = i;
+            stack.push(i);
         }
 
-        return ans;
+        return answer;
     }
 }
