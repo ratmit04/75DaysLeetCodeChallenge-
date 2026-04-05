@@ -19,6 +19,7 @@ All questions solved in the challenge
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -103,6 +104,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 ## Greedy
@@ -140,4 +142,8 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
