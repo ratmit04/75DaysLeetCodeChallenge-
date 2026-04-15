@@ -4,15 +4,15 @@ All questions solved in the challenge
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0007-reverse-integer](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0015-3sum) |
@@ -34,8 +34,8 @@ All questions solved in the challenge
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
@@ -45,27 +45,27 @@ All questions solved in the challenge
 | [0424-longest-repeating-character-replacement](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0029-divide-two-integers](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0029-divide-two-integers) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0206-reverse-linked-list) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
@@ -73,32 +73,32 @@ All questions solved in the challenge
 | [0242-valid-anagram](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0238-product-of-array-except-self](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -108,8 +108,8 @@ All questions solved in the challenge
 | [0283-move-zeroes](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
@@ -117,22 +117,22 @@ All questions solved in the challenge
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -140,43 +140,47 @@ All questions solved in the challenge
 | [0232-implement-queue-using-stacks](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0155-min-stack](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
