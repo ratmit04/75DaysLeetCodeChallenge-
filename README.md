@@ -170,6 +170,7 @@ All questions solved in the challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -178,6 +179,7 @@ All questions solved in the challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -193,6 +195,7 @@ All questions solved in the challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
