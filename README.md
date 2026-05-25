@@ -34,6 +34,7 @@ All questions solved in the challenge
 | [0643-maximum-average-subarray-i](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
+| [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@ All questions solved in the challenge
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +67,7 @@ All questions solved in the challenge
 | [0217-contains-duplicate](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 ## String
 |  |
 | ------- |
@@ -93,6 +96,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 ## Quickselect
 |  |
 | ------- |
@@ -112,6 +116,7 @@ All questions solved in the challenge
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
+| [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 ## Binary Search
 |  |
 | ------- |
