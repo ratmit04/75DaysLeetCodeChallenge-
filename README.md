@@ -35,6 +35,7 @@ All questions solved in the challenge
 | [0643-maximum-average-subarray-i](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
@@ -135,6 +136,7 @@ All questions solved in the challenge
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
