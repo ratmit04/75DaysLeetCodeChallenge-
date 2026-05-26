@@ -1,5 +1,3 @@
-
-
 class Solution {
 
     int mini = Integer.MAX_VALUE;
