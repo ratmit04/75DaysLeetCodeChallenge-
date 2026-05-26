@@ -36,6 +36,7 @@ All questions solved in the challenge
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ All questions solved in the challenge
 | [0242-valid-anagram](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0238-product-of-array-except-self) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +125,7 @@ All questions solved in the challenge
 | [0283-move-zeroes](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +135,7 @@ All questions solved in the challenge
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
