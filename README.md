@@ -37,6 +37,7 @@ All questions solved in the challenge
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
+| [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ All questions solved in the challenge
 | [0242-valid-anagram](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
+| [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
@@ -126,6 +128,7 @@ All questions solved in the challenge
 | [0283-move-zeroes](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
+| [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
@@ -142,6 +145,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0011-container-with-most-water) |
+| [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
 ## Dynamic Programming
 |  |
 | ------- |
