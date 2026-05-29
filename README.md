@@ -39,6 +39,7 @@ All questions solved in the challenge
 | [0731-my-calendar-ii](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0875-koko-eating-bananas) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -97,6 +98,7 @@ All questions solved in the challenge
 | [0053-maximum-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -159,6 +161,7 @@ All questions solved in the challenge
 | [0053-maximum-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0152-maximum-product-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,6 +190,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -279,4 +283,8 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0731-my-calendar-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
