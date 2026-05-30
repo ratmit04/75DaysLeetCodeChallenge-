@@ -42,6 +42,7 @@ All questions solved in the challenge
 | [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
@@ -149,6 +150,7 @@ All questions solved in the challenge
 | [0704-binary-search](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0704-binary-search) |
 | [0731-my-calendar-ii](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
