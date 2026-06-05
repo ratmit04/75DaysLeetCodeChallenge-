@@ -292,5 +292,6 @@ All questions solved in the challenge
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
