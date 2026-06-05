@@ -289,4 +289,8 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
