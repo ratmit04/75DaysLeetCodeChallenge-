@@ -294,5 +294,6 @@ All questions solved in the challenge
 | ------- |
 | [0584-find-customer-referee](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0595-big-countries) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
