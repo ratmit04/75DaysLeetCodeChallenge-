@@ -70,6 +70,7 @@ All questions solved in the challenge
 | [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ All questions solved in the challenge
 | [0125-valid-palindrome](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0283-move-zeroes) |
 | [0457-circular-array-loop](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
@@ -179,6 +181,7 @@ All questions solved in the challenge
 | [0150-evaluate-reverse-polish-notation](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -207,6 +210,7 @@ All questions solved in the challenge
 | [0021-merge-two-sorted-lists](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
