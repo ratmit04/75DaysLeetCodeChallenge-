@@ -22,6 +22,7 @@ All questions solved in the challenge
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0152-maximum-product-subarray) |
@@ -63,6 +64,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0078-subsets) |
 ## Recursion
 |  |
 | ------- |
@@ -300,4 +302,8 @@ All questions solved in the challenge
 | [0595-big-countries](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0595-big-countries) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
