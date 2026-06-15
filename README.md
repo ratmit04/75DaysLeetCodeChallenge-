@@ -20,6 +20,7 @@ All questions solved in the challenge
 | [0033-search-in-rotated-sorted-array](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0078-subsets) |
@@ -305,5 +306,6 @@ All questions solved in the challenge
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
