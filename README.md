@@ -47,6 +47,7 @@ All questions solved in the challenge
 | [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0347-top-k-frequent-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -158,6 +160,7 @@ All questions solved in the challenge
 | [0875-koko-eating-bananas](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +212,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -253,6 +257,7 @@ All questions solved in the challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -314,4 +319,8 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
