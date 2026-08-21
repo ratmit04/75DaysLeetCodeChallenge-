@@ -45,6 +45,7 @@ All questions solved in the challenge
 | [0918-maximum-sum-circular-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0923-3sum-with-multiplicity](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0969-pancake-sorting) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -212,6 +213,7 @@ All questions solved in the challenge
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
@@ -260,6 +262,7 @@ All questions solved in the challenge
 | [0104-maximum-depth-of-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/main/0226-invert-binary-tree/) | Easy |
+| [1091-shortest-path-in-binary-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Tree
 |  |
