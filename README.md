@@ -9,6 +9,7 @@ All questions solved in the challenge
 | [0007-reverse-integer](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Array
@@ -23,6 +24,7 @@ All questions solved in the challenge
 | [0049-group-anagrams](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ratmit04/75DaysLeetCodeChallenge-/tree/master/0121-best-time-to-buy-and-sell-stock) |
